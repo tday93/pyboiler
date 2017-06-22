@@ -1,0 +1,2 @@
+[32m[I 170622 12:23:25 main:18][m hello world
+[32m[I 170622 12:23:25 main:19][m Namespace(arg='boop', flag=False, name=None, verbose=1)

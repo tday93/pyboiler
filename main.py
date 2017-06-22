@@ -10,7 +10,7 @@ __license__ = "MIT"
 import argparse
 from logger import setup_logger
 
-logger = setup_logger(logfile=None)
+logger = setup_logger(logfile="log.txt")
 
 
 def main(args):
